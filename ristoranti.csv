@@ -1,0 +1,215 @@
+Nome;Nazione;Città;Indirizzo;Latitudine;Longitudine;Prezzo medio (€);Delivery;Prenotazione online;Tipologia cucina
+Pizzeria Da Mario;Italia;Roma;Via Roma 12;41.9028;12.4964;25;si;si;Italiana
+Le Bistrot de Paris;Francia;Parigi;12 Rue de Rivoli;48.8566;2.3522;40;no;si;Francese
+Berliner Hof;Germania;Berlino;Unter den Linden 5;52.5200;13.4050;30;si;no;Tedesca
+Casa Española;Spagna;Madrid;Calle Mayor 1;40.4168;-3.7038;20;si;si;Spagnola
+NYC Diner;USA;New York;5th Avenue 711;40.7128;-74.0060;50;si;si;Americana
+Sakura Sushi;Giappone;Tokyo;Shibuya Crossing 1-2-3;35.6895;139.6917;45;no;si;Giapponese
+El Burrito Feliz;Messico;Città del Messico;Avenida Reforma 200;19.4326;-99.1332;18;si;no;Messicana
+Pechino Express;Cina;Pechino;Wangfujing Street 88;39.9042;116.4074;28;no;si;Cinese
+The Queen's Pub;Regno Unito;Londra;Piccadilly Circus 10;51.5074;-0.1278;35;si;si;Britannica
+Sydney Grill;Australia;Sydney;George Street 100;-33.8688;151.2093;38;no;no;Australiana
+La Belle Époque;Francia;Lione;Rue de la République 45;45.7640;4.8357;32;no;si;Francese
+Trattoria Bella Napoli;Italia;Napoli;Via Toledo 22;40.8518;14.2681;24;si;no;Italiana
+Taverna El Greco;Grecia;Atene;Plaka Street 12;37.9838;23.7275;27;si;si;Greca
+Bavarian Haus;Germania;Monaco di Baviera;Marienplatz 1;48.1374;11.5755;29;si;no;Tedesca
+La Parrilla Argentina;Argentina;Buenos Aires;Avenida Corrientes 345; -34.6037;-58.3816;21;si;no;Argentina
+Bombay Spice;India;Mumbai;Colaba Causeway 88;18.9388;72.8354;19;no;si;Indiana
+Le Gourmet Marocain;Marocco;Marrakech;Rue Bab Agnaou 5;31.6295;-7.9811;22;si;no;Marocchina
+Chez Montréal;Canada;Montreal;Rue Sainte-Catherine 230;45.5017;-73.5673;34;no;si;Canadese
+Café de Lisboa;Portogallo;Lisbona;Rua Augusta 77;38.7223;-9.1393;26;si;no;Portoghese
+Tortilla y Tapas;Spagna;Barcellona;La Rambla 100;41.3851;2.1734;23;si;si;Spagnola
+Little Bangkok;Thailandia;Bangkok;Sukhumvit Road 55;13.7563;100.5018;20;no;si;Tailandese
+Seoul Garden;Corea del Sud;Seoul;Gangnam Street 200;37.5665;126.9780;31;si;si;Coreana
+Il Forno Siciliano;Italia;Palermo;Via Maqueda 10;38.1157;13.3615;22;no;no;Italiana
+Dolce Vita;Italia;Firenze;Piazza del Duomo 8;43.7699;11.2556;28;si;si;Italiana
+L'Orient Express;Turchia;Istanbul;Istiklal Caddesi 300;41.0082;28.9784;29;no;si;Turca
+Chez Bruxelles;Belgio;Bruxelles;Grand Place 1;50.8503;4.3517;35;si;no;Belga
+Venezia Mare;Italia;Venezia;Calle Larga 55;45.4408;12.3155;37;no;no;Italiana
+Lima Criolla;Perù;Lima;Avenida Larco 500;-12.0464;-77.0428;25;si;si;Peruviana
+Havana Salsa;Cuba;L'Avana;Calle Obispo 22;23.1136;-82.3666;19;no;no;Cubana
+München Bräu;Germania;Monaco di Baviera;Theresienstrasse 99;48.1374;11.5755;27;si;no;Tedesca
+Rio Grill;Brasile;Rio de Janeiro;Copacabana Avenue 20;-22.9068;-43.1729;30;no;si;Brasiliana
+Zürich Café;Svizzera;Zurigo;Bahnhofstrasse 15;47.3769;8.5417;36;no;si;Svizzera
+Salzburg Schnitzel;Austria;Salisburgo;Getreidegasse 9;47.8095;13.0550;33;si;no;Austriaca
+Helsinki Bistro;Finlandia;Helsinki;Esplanadi 3;60.1699;24.9384;31;si;si;Finlandese
+Sofia Kitchen;Bulgaria;Sofia;Vitosha Boulevard 50;42.6977;23.3219;18;no;no;Bulgara
+Tallinn Tavern;Estonia;Tallinn;Viru Street 12;59.4370;24.7536;22;si;no;Estone
+Vilnius House;Lituania;Vilnius;Gedimino Avenue 8;54.6872;25.2797;20;no;si;Lituana
+Copenhagen Smørrebrød;Danimarca;Copenaghen;Nyhavn 2;55.6761;12.5683;35;si;si;Danese
+Oslo Fjord Café;Norvegia;Oslo;Karl Johans Gate 10;59.9139;10.7522;34;no;no;Norvegese
+Stockholm Herring;Svezia;Stoccolma;Gamla Stan 3;59.3293;18.0686;29;si;si;Svedese
+Dublin Alehouse;Irlanda;Dublino;Temple Bar 25;53.3498;-6.2603;28;no;si;Irlandese
+Warsaw Pierogi;Polonia;Varsavia;Nowy Swiat 7;52.2297;21.0122;24;si;no;Polacca
+Prague Goulash;Repubblica Ceca;Praga;Wenceslas Square 12;50.0755;14.4378;23;no;no;Ceca
+Budapest Paprika;Ungheria;Budapest;Andrássy Avenue 15;47.4979;19.0402;22;si;si;Ungherese
+Bucharest Grill;Romania;Bucarest;Calea Victoriei 6;44.4268;26.1025;21;no;si;Romena
+Belgrade Bistro;Serbia;Belgrado;Knez Mihailova 9;44.7866;20.4489;19;si;no;Serba
+Ljubljana Table;Slovenia;Lubiana;Prešeren Square 4;46.0569;14.5058;20;no;no;Slovena
+Sarajevo Grill;Bosnia-Erzegovina;Sarajevo;Ferhadija 10;43.8563;18.4131;17;no;si;Bosniaca
+Skopje Meze;Macedonia del Nord;Skopje;Makedonija Square 3;41.9973;21.4280;18;si;no;Macedone
+Tirana Taverna;Albania;Tirana;Rruga e Barrikadave 15;41.3275;19.8187;16;no;si;Albanese
+Podgorica Table;Montenegro;Podgorica;Hercegovačka 8;42.4413;19.2629;17;si;no;Montenegrina
+Zagreb Zrinski;Croazia;Zagabria;Ilica 20;45.8150;15.9819;21;no;si;Croata
+Athens Gyros;Grecia;Atene;Syntagma Square 11;37.9838;23.7275;19;si;si;Greca
+Sofia Mehana;Bulgaria;Sofia;Aleksandar Nevski 4;42.6977;23.3219;20;no;no;Bulgara
+Kiev Borsch;Ucraina;Kiev;Khreshchatyk 55;50.4501;30.5234;22;si;si;Ucraina
+Minsk Café;Bielorussia;Minsk;Independence Avenue 101;53.9006;27.5590;19;no;si;Bielorussa
+Vilnius Cepelinai;Lituania;Vilnius;Pilies Street 8;54.6872;25.2797;21;si;no;Lituana
+Riga Baltic House;Lettonia;Riga;Doma Laukums 3;56.9496;24.1052;22;no;si;Lettone
+Tallinn Olde Hansa;Estonia;Tallinn;Viru 5;59.4370;24.7536;23;si;no;Estone
+Helsinki Nordic;Finlandia;Helsinki;Mannerheimintie 15;60.1699;24.9384;24;no;si;Finlandese
+Oslo Viking Grill;Norvegia;Oslo;Stortorvet 2;59.9139;10.7522;25;si;no;Norvegese
+Stockholm Smörgås;Svezia;Stoccolma;Drottninggatan 7;59.3293;18.0686;26;no;si;Svedese
+Copenhagen Herring;Danimarca;Copenaghen;Rådhuspladsen 4;55.6761;12.5683;27;si;no;Danese
+Reykjavik Fish House;Islanda;Reykjavik;Laugavegur 20;64.1265;-21.8174;30;no;si;Islandese
+Dublin Clover;Irlanda;Dublino;O'Connell Street 9;53.3498;-6.2603;25;si;si;Irlandese
+Edinburgh Castle Pub;Regno Unito;Edimburgo;Royal Mile 13;55.9533;-3.1883;24;no;no;Scozzese
+Cardiff Dragon;Regno Unito;Cardiff;Queen Street 17;51.4816;-3.1791;23;si;si;Gallese
+London Crown;Regno Unito;Londra;Oxford Street 88;51.5074;-0.1278;35;si;si;Britannica
+Manchester Pie;Regno Unito;Manchester;Deansgate 45;53.4808;-2.2426;28;no;si;Britannica
+Birmingham Curry;Regno Unito;Birmingham;New Street 22;52.4862;-1.8904;27;si;no;Indiana
+Liverpool Dock;Regno Unito;Liverpool;Albert Dock 5;53.4084;-2.9916;29;no;si;Britannica
+Glasgow Kilt;Regno Unito;Glasgow;Buchanan Street 19;55.8642;-4.2518;26;si;no;Scozzese
+Belfast Alehouse;Regno Unito;Belfast;Victoria Square 3;54.5973;-5.9301;24;no;si;Irlandese
+Paris Croissant;Francia;Parigi;Champs-Élysées 101;48.8566;2.3522;38;si;si;Francese
+Marseille Bouillabaisse;Francia;Marsiglia;Vieux Port 7;43.2965;5.3698;32;no;si;Francese
+Lyon Bouchon;Francia;Lione;Rue Mercière 12;45.7640;4.8357;31;si;no;Francese
+Nice Riviera;Francia;Nizza;Promenade des Anglais 20;43.7102;7.2620;34;no;si;Francese
+Toulouse Cassoulet;Francia;Tolosa;Capitole Square 9;43.6047;1.4442;30;si;no;Francese
+Nantes Crêperie;Francia;Nantes;Place Royale 2;47.2184;-1.5536;27;no;si;Francese
+Bordeaux Vignoble;Francia;Bordeaux;Place de la Bourse 1;44.8378;-0.5792;33;si;no;Francese
+Strasbourg Alsace;Francia;Strasburgo;Petite France 4;48.5734;7.7521;29;no;si;Francese
+Lille Flamiche;Francia;Lilla;Grand Place 6;50.6292;3.0573;28;si;no;Francese
+Rennes Galette;Francia;Rennes;Rue Saint-Michel 11;48.1173;-1.6778;25;no;si;Francese
+Grenoble Raclette;Francia;Grenoble;Place Victor Hugo 7;45.1885;5.7245;26;si;no;Francese
+Dijon Moutarde;Francia;Dijon;Rue de la Liberté 14;47.3220;5.0415;27;no;si;Francese
+Tours Loire;Francia;Tours;Place Plumereau 8;47.3941;0.6848;24;si;no;Francese
+Annecy Savoyard;Francia;Annecy;Rue Sainte-Claire 3;45.8992;6.1294;26;no;si;Francese
+Avignon Papal;Francia;Avignone;Place de l'Horloge 9;43.9493;4.8055;27;si;no;Francese
+Reims Champagne;Francia;Reims;Place Drouet d'Erlon 6;49.2583;4.0317;32;no;si;Francese
+Saint-Tropez Plage;Francia;Saint-Tropez;Rue Gambetta 8;43.2675;6.6406;40;si;si;Francese
+Corsica Mare;Francia;Ajaccio;Cours Napoléon 11;41.9192;8.7386;35;no;si;Francese
+Brussels Waffle;Belgio;Bruxelles;Rue des Bouchers 7;50.8503;4.3517;29;si;no;Belga
+Antwerp Frites;Belgio;Anversa;Groenplaats 4;51.2194;4.4025;27;no;si;Belga
+Ghent Ganda;Belgio;Gent;Graslei 2;51.0543;3.7174;28;si;no;Belga
+Bruges Canal;Belgio;Bruges;Markt 1;51.2093;3.2247;30;no;si;Belga
+Liège Gaufre;Belgio;Liegi;Place Saint-Lambert 5;50.6326;5.5797;26;si;no;Belga
+Luxembourg City Bistro;Lussemburgo;Lussemburgo;Place Guillaume II 6;49.6116;6.1319;31;no;si;Lussemburghese
+Amsterdam Stroopwafel;Paesi Bassi;Amsterdam;Dam Square 10;52.3676;4.9041;33;si;si;Olandese
+Rotterdam Harbor;Paesi Bassi;Rotterdam;Witte de Withstraat 8;51.9225;4.4792;29;no;si;Olandese
+Utrecht Canalhouse;Paesi Bassi;Utrecht;Oudegracht 20;52.0907;5.1214;27;si;no;Olandese
+The Hague Herring;Paesi Bassi;L'Aia;Binnenhof 4;52.0705;4.3007;28;no;si;Olandese
+Eindhoven Design Café;Paesi Bassi;Eindhoven;Stratumseind 15;51.4416;5.4697;26;si;no;Olandese
+Maastricht Vlaai;Paesi Bassi;Maastricht;Vrijthof 3;50.8514;5.6900;30;no;si;Olandese
+Berlin Currywurst;Germania;Berlino;Alexanderplatz 9;52.5200;13.4050;28;si;si;Tedesca
+Hamburg Fischmarkt;Germania;Amburgo;Reeperbahn 12;53.5511;9.9937;31;no;si;Tedesca
+Munich Bierhalle;Germania;Monaco di Baviera;Sendlinger Straße 7;48.1374;11.5755;35;si;no;Tedesca
+Frankfurt Apfelwein;Germania;Francoforte;Zeil 22;50.1109;8.6821;29;no;si;Tedesca
+Cologne Dom Café;Germania;Colonia;Hohe Straße 5;50.9375;6.9603;27;si;no;Tedesca
+Stuttgart Maultaschen;Germania;Stoccarda;Königstraße 15;48.7758;9.1829;30;no;si;Tedesca
+Düsseldorf Altbier;Germania;Düsseldorf;Königsallee 11;51.2277;6.7735;32;si;no;Tedesca
+Dresden Elbe Terrace;Germania;Dresda;Neumarkt 6;51.0504;13.7373;28;no;si;Tedesca
+Leipzig Bachhaus;Germania;Lipsia;Markt 3;51.3397;12.3731;26;si;no;Tedesca
+Hannover Rathaus;Germania;Hannover;Kröpcke 9;52.3759;9.7320;27;no;si;Tedesca
+Bremen Bremerhaven;Germania;Brema;Schlachte 4;53.0793;8.8017;25;si;no;Tedesca
+Nuremberg Bratwurst;Germania;Norimberga;Hauptmarkt 8;49.4521;11.0767;29;no;si;Tedesca
+Zürich Fondue;Svizzera;Zurigo;Bahnhofstrasse 22;47.3769;8.5417;40;si;si;Svizzera
+Geneva Lakehouse;Svizzera;Ginevra;Rue du Rhône 15;46.2044;6.1432;42;no;si;Svizzera
+Basel Rheinblick;Svizzera;Basilea;Marktplatz 10;47.5596;7.5886;38;si;no;Svizzera
+Bern Bundesplatz;Svizzera;Berna;Kramgasse 6;46.9480;7.4474;36;no;si;Svizzera
+Lausanne Riviera;Svizzera;Losanna;Place de la Palud 7;46.5197;6.6323;34;si;no;Svizzera
+Lucerne Kapellbrücke;Svizzera;Lucerna;Hertensteinstrasse 3;47.0502;8.3093;35;no;si;Svizzera
+Lugano Ticino;Svizzera;Lugano;Via Nassa 12;46.0037;8.9511;33;si;no;Svizzera
+Interlaken Alpenblick;Svizzera;Interlaken;Höheweg 5;46.6863;7.8632;37;no;si;Svizzera
+St. Moritz Glacier;Svizzera;St. Moritz;Via Maistra 10;46.4983;9.8375;45;si;no;Svizzera
+Davos Chalet;Svizzera;Davos;Promenade 8;46.8024;9.8362;39;no;si;Svizzera
+Zermatt Matterhorn;Svizzera;Zermatt;Bahnhofstrasse 9;46.0207;7.7491;41;si;no;Svizzera
+Vaduz Castle Café;Liechtenstein;Vaduz;Städtle 3;47.1410;9.5215;38;no;si;Lussemburghese
+Innsbruck Tyrol;Austria;Innsbruck;Maria-Theresien-Strasse 9;47.2692;11.4041;34;si;no;Austriaca
+Salzburg Mozarthaus;Austria;Salisburgo;Getreidegasse 12;47.8095;13.0550;33;no;si;Austriaca
+Vienna Schnitzel;Austria;Vienna;Stephansplatz 4;48.2082;16.3738;36;si;no;Austriaca
+Graz Steiermark;Austria;Graz;Hauptplatz 7;47.0707;15.4395;31;no;si;Austriaca
+Klagenfurt Wörthersee;Austria;Klagenfurt;Neuer Platz 5;46.6249;14.3050;28;si;no;Austriaca
+Linz Donau;Austria;Linz;Hauptstraße 11;48.3069;14.2858;29;no;si;Austriaca
+Bregenz Bodensee;Austria;Bregenz;Kornmarktplatz 6;47.5031;9.7471;27;si;no;Austriaca
+Bratislava Danube;Slovacchia;Bratislava;Hviezdoslavovo námestie 10;48.1486;17.1077;25;no;si;Slovacca
+Košice Tokaj;Slovacchia;Košice;Hlavná 4;48.7164;21.2611;24;si;no;Slovacca
+Budapest Goulash;Ungheria;Budapest;Váci utca 15;47.4979;19.0402;26;no;si;Ungherese
+Debrecen Hortobágy;Ungheria;Debrecen;Piac utca 8;47.5316;21.6273;23;si;no;Ungherese
+Szeged Paprika;Ungheria;Szeged;Kárász utca 2;46.2530;20.1414;22;no;si;Ungherese
+Pécs Zsolnay;Ungheria;Pécs;Király utca 5;46.0727;18.2323;21;si;no;Ungherese
+Miskolc Bükk;Ungheria;Miskolc;Szent István tér 9;48.1031;20.7784;20;no;si;Ungherese
+Ljubljana Dragon;Slovenia;Lubiana;Prešeren Square 12;46.0569;14.5058;25;si;no;Slovena
+Maribor Drava;Slovenia;Maribor;Glavni trg 3;46.5547;15.6459;23;no;si;Slovena
+Zagreb Market;Croazia;Zagabria;Dolac Market 1;45.8150;15.9819;27;si;no;Croata
+Split Riviera;Croazia;Spalato;Riva Promenade 6;43.5081;16.4402;28;no;si;Croata
+Dubrovnik Old Town;Croazia;Dubrovnik;Stradun 10;42.6507;18.0944;32;si;no;Croata
+Sarajevo Bazaar;Bosnia-Erzegovina;Sarajevo;Baščaršija 5;43.8563;18.4131;24;no;si;Bosniaca
+Mostar Bridge;Bosnia-Erzegovina;Mostar;Stari Most 2;43.3438;17.8078;23;si;no;Bosniaca
+Belgrade Fortress;Serbia;Belgrado;Kalemegdan 7;44.7866;20.4489;26;no;si;Serba
+Novi Sad Danube;Serbia;Novi Sad;Zmaj Jovina 9;45.2671;19.8335;25;si;no;Serba
+Podgorica Moraca;Montenegro;Podgorica;Hercegovačka 8;42.4413;19.2629;22;no;si;Montenegrina
+Kotor Bay;Montenegro;Kotor;Stari Grad 4;42.4247;18.7712;24;si;no;Montenegrina
+Tirana Scanderbeg;Albania;Tirana;Rruga e Barrikadave 12;41.3275;19.8187;21;no;si;Albanese
+Shkodra Rozafa;Albania;Scutari;Rruga Kolë Idromeno 5;42.0683;19.5126;20;si;no;Albanese
+Skopje Alexander;Macedonia del Nord;Skopje;Makedonija Square 3;41.9973;21.4280;23;no;si;Macedone
+Ohrid Lakeview;Macedonia del Nord;Ohrid;St Clement 2;41.1231;20.8016;25;si;no;Macedone
+Sofia Vitosha;Bulgaria;Sofia;Vitosha Boulevard 15;42.6977;23.3219;26;no;si;Bulgara
+Plovdiv Roman;Bulgaria;Plovdiv;Kapana District 6;42.1354;24.7453;24;si;no;Bulgara
+Varna Black Sea;Bulgaria;Varna;Sea Garden 4;43.2141;27.9147;23;no;si;Bulgara
+Bucharest Lipscani;Romania;Bucarest;Lipscani Street 9;44.4268;26.1025;27;si;no;Romena
+Cluj-Napoca Transylvania;Romania;Cluj-Napoca;Unirii Square 2;46.7712;23.6236;26;no;si;Romena
+Timișoara Union;Romania;Timișoara;Union Square 8;45.7489;21.2087;25;si;no;Romena
+Iași Palace;Romania;Iași;Stefan cel Mare 5;47.1585;27.6014;23;no;si;Romena
+Chișinău Central;Moldova;Chișinău;Stefan cel Mare Boulevard 10;47.0105;28.8638;22;si;no;Moldava
+Odessa Sea;Ucraina;Odessa;Deribasovskaya 11;46.4825;30.7233;25;no;si;Ucraina
+Lviv Old Town;Ucraina;Leopoli;Rynok Square 3;49.8397;24.0297;24;si;no;Ucraina
+Kyiv Maidan;Ucraina;Kiev;Maidan Nezalezhnosti 1;50.4501;30.5234;27;no;si;Ucraina
+Minsk Victory;Bielorussia;Minsk;Victory Square 6;53.9006;27.5590;23;si;no;Bielorussa
+Grodno Neman;Bielorussia;Grodno;Sovetskaya Street 7;53.6694;23.8131;22;no;si;Bielorussa
+Vilnius Cathedral;Lituania;Vilnius;Gedimino Avenue 5;54.6872;25.2797;24;si;no;Lituana
+Kaunas Nemunas;Lituania;Kaunas;Laisvės alėja 9;54.8985;23.9036;22;no;si;Lituana
+Riga Old Town;Lettonia;Riga;Doma Laukums 4;56.9496;24.1052;25;si;no;Lettone
+Daugavpils Fortress;Lettonia;Daugavpils;Rīgas iela 3;55.8746;26.5359;23;no;si;Lettone
+Tallinn Toompea;Estonia;Tallinn;Pikk Street 6;59.4370;24.7536;26;si;no;Estone
+Tartu University;Estonia;Tartu;Raekoja plats 2;58.3776;26.7290;24;no;si;Estone
+Helsinki Market;Finlandia;Helsinki;Kauppatori 7;60.1699;24.9384;29;si;no;Finlandese
+Turku Castle;Finlandia;Turku;Linnankatu 10;60.4518;22.2666;27;no;si;Finlandese
+Tampere Näsinneula;Finlandia;Tampere;Hämeenkatu 12;61.4978;23.7604;25;si;no;Finlandese
+Oslo Opera House;Norvegia;Oslo;Kirsten Flagstads Plass 1;59.9139;10.7522;31;no;si;Norvegese
+Bergen Bryggen;Norvegia;Bergen;Bryggen Wharf 4;60.3913;5.3221;30;si;no;Norvegese
+Trondheim Nidaros;Norvegia;Trondheim;Munkegata 5;63.4305;10.3951;28;no;si;Norvegese
+Stockholm City Hall;Svezia;Stoccolma;Hantverkargatan 3;59.3293;18.0686;32;si;no;Svedese
+Gothenburg Avenyn;Svezia;Göteborg;Kungsportsavenyen 11;57.7089;11.9746;30;no;si;Svedese
+Malmö Turning Torso;Svezia;Malmö;Lilla Torg 9;55.6050;13.0038;29;si;no;Svedese
+Copenhagen Tivoli;Danimarca;Copenaghen;Vesterbrogade 8;55.6761;12.5683;33;no;si;Danese
+Aarhus Latin Quarter;Danimarca;Aarhus;Vestergade 5;56.1629;10.2039;28;si;no;Danese
+Odense Andersen;Danimarca;Odense;Kongensgade 4;55.4038;10.4024;27;no;si;Danese
+Reykjavik Volcano;Islanda;Reykjavik;Skólavörðustígur 7;64.1265;-21.8174;35;si;no;Islandese
+Akureyri Fjord;Islanda;Akureyri;Hafnarstræti 3;65.6839;-18.1105;32;no;si;Islandese
+London Thames;Regno Unito;Londra;South Bank 15;51.5074;-0.1278;38;si;si;Britannica
+Cambridge College;Regno Unito;Cambridge;King's Parade 2;52.2053;0.1218;31;no;si;Britannica
+Oxford Spires;Regno Unito;Oxford;High Street 6;51.7520;-1.2577;32;si;no;Britannica
+York Minster;Regno Unito;York;Stonegate 8;53.9590;-1.0815;30;no;si;Britannica
+Liverpool Beatles;Regno Unito;Liverpool;Mathew Street 9;53.4084;-2.9916;28;si;no;Britannica
+Manchester Canal;Regno Unito;Manchester;Canal Street 7;53.4808;-2.2426;29;no;si;Britannica
+Birmingham Bullring;Regno Unito;Birmingham;New Street 5;52.4862;-1.8904;30;si;no;Britannica
+Edinburgh Royal Mile;Regno Unito;Edimburgo;Royal Mile 14;55.9533;-3.1883;31;no;si;Scozzese
+Glasgow Clyde;Regno Unito;Glasgow;Buchanan Street 12;55.8642;-4.2518;29;si;no;Scozzese
+Cardiff Castle;Regno Unito;Cardiff;Castle Street 3;51.4816;-3.1791;27;no;si;Gallese
+Belfast Titanic;Regno Unito;Belfast;Queens Road 4;54.5973;-5.9301;28;si;no;Irlandese
+Dublin Temple Bar;Irlanda;Dublino;Temple Bar Square 7;53.3498;-6.2603;32;no;si;Irlandese
+Cork English Market;Irlanda;Cork;Princes Street 5;51.8985;-8.4756;29;si;no;Irlandese
+Galway Bay;Irlanda;Galway;Shop Street 8;53.2707;-9.0568;28;no;si;Irlandese
+Limerick Shannon;Irlanda;Limerick;O'Connell Street 6;52.6638;-8.6267;27;si;no;Irlandese
+Kilkenny Castle;Irlanda;Kilkenny;Parliament Street 4;52.6541;-7.2520;26;no;si;Irlandese
+Bristol Harbour;Regno Unito;Bristol;King Street 9;51.4545;-2.5879;29;si;no;Britannica
+Bath Roman Spa;Regno Unito;Bath;Abbey Green 3;51.3758;-2.3599;31;no;si;Britannica
+Brighton Pier;Regno Unito;Brighton;Marine Parade 7;50.8225;-0.1372;30;si;no;Britannica
+Plymouth Hoe;Regno Unito;Plymouth;Royal Parade 5;50.3755;-4.1427;28;no;si;Britannica
+Exeter Cathedral;Regno Unito;Exeter;High Street 8;50.7184;-3.5339;27;si;no;Britannica
+Norwich Market;Regno Unito;Norwich;Gentleman's Walk 6;52.6309;1.2974;26;no;si;Britannica
+Cambridge River;Regno Unito;Cambridge;Silver Street 4;52.2053;0.1218;30;si;no;Britannica
+
+

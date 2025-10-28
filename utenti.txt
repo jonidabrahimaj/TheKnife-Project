@@ -1,0 +1,3 @@
+username;passwordHash;tipo
+nida;32b68d81b593aa72053dc27e24adcbc5c34fc6bf4ce81d74d41e0ec4e407a1f6;cliente
+lor;ab428b5d2a2c5c2f221f5c1276fc8d208865863e1b94b6be22aed7992b1202bc;cliente
