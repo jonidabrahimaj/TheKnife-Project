@@ -13,7 +13,7 @@ Compilazione (da /submit):
 Esecuzione:
 - java -jar bin/TheKnife.jar
 
-Struttura cartelle:
+Struttura :
 - /src/theknife/*.java
 - /data/ristoranti.csv, /data/utenti.txt
 - /bin (output compilazione)
